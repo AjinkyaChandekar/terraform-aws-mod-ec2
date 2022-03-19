@@ -18,7 +18,7 @@ terraform {
     organization = "dmart"
 
     workspaces {
-      name = "Terraform-docker"
+      name = "terraform-module"
     }
   }
 }
